@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Image from 'next/image';
 import styles from '@/styles/Home.module.css';
-
+import Die from './die';
 export default function Home() {
   const router = useRouter();
   const [buttonClicked, setButtonClicked] = useState(false);
@@ -52,7 +52,7 @@ export default function Home() {
   const eat = () => {
     console.log('玩家按下按鈕"吃"');
     setButtonClicked(true);
-
+  
     if (randomFood) {
       const foodDiePoint = randomFood.die_point;
       const buffDiePoints = randomFood.buff.map(
