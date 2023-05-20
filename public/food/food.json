@@ -1,0 +1,91 @@
+{
+    "001": [
+        {
+            "name": "蘋果",
+            "description": "一天一蘋果，醫生遠離我。",
+            "die_point": 0,
+            "buff": [
+                {
+                    "insect": [
+                        {
+                            "name": "蟲！",
+                            "description": "這顆蘋果被蟲蟲寄生了！",
+                            "die_point": 3
+                        }
+                    ],
+                    "expired": [
+                        {
+                            "name": "放太久",
+                            "description": "這顆蘋果放太久，有些地方變質了。",
+                            "die_point": 5
+                        }
+                    ],
+                    "perfect": [
+                        {
+                            "name": "完美",
+                            "description": "這個蘋果太完美了，完全沒有缺陷！",
+                            "die_point": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "002": [
+        {
+            "name": "香蕉",
+            "description": "吃香蕉超營養的拉～",
+            "die_point": 0,
+            "buff": [
+                {
+                    "insect": [
+                        {
+                            "name": "蟲！",
+                            "description": "這顆蘋果被蟲蟲寄生了！",
+                            "die_point": 3
+                        }
+                    ],
+                    "expired": [
+                        {
+                            "name": "放太久",
+                            "description": "這顆蘋果放太久，有些地方變質了。",
+                            "die_point": 5
+                        }
+                    ],
+                    "perfect": [
+                        {
+                            "name": "完美",
+                            "description": "這個香蕉太完美了，完全沒有缺陷！",
+                            "die_point": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "003": [
+        {
+            "name": "釘子",
+            "description": "吃釘子很棒，對吧owo",
+            "die_point": 70,
+            "buff": [
+                {
+                    "bacteria": [
+                        {
+                            "name": "細菌太多了！",
+                            "description": "身邊剛好沒有酒精。",
+                            "die_point": 10
+                        }
+                    ],
+                    "perfect": [
+                        {
+                            "name": "完美",
+                            "description": "這個釘子太完美了，完全沒有缺陷！",
+                            "die_point": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
