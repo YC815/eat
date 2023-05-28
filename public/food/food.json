@@ -1,91 +1,212 @@
 {
-    "001": [
+    "1": [
         {
             "name": "蘋果",
             "description": "一天一蘋果，醫生遠離我。",
-            "die_point": 0,
-            "buff": [
-                {
-                    "insect": [
-                        {
-                            "name": "蟲！",
-                            "description": "這顆蘋果被蟲蟲寄生了！",
-                            "die_point": 3
-                        }
-                    ],
-                    "expired": [
-                        {
-                            "name": "放太久",
-                            "description": "這顆蘋果放太久，有些地方變質了。",
-                            "die_point": 5
-                        }
-                    ],
-                    "perfect": [
-                        {
-                            "name": "完美",
-                            "description": "這個蘋果太完美了，完全沒有缺陷！",
-                            "die_point": 0
-                        }
-                    ]
-                }
-            ]
+            "die_point": 0
         }
     ],
-    "002": [
+    "2": [
         {
             "name": "香蕉",
             "description": "吃香蕉超營養的拉～",
-            "die_point": 0,
-            "buff": [
-                {
-                    "insect": [
-                        {
-                            "name": "蟲！",
-                            "description": "這顆蘋果被蟲蟲寄生了！",
-                            "die_point": 3
-                        }
-                    ],
-                    "expired": [
-                        {
-                            "name": "放太久",
-                            "description": "這顆蘋果放太久，有些地方變質了。",
-                            "die_point": 5
-                        }
-                    ],
-                    "perfect": [
-                        {
-                            "name": "完美",
-                            "description": "這個香蕉太完美了，完全沒有缺陷！",
-                            "die_point": 0
-                        }
-                    ]
-                }
-            ]
+            "die_point": 0
         }
     ],
-    "003": [
+    "3": [
         {
             "name": "釘子",
             "description": "吃釘子很棒，對吧owo",
-            "die_point": 70,
-            "buff": [
-                {
-                    "bacteria": [
-                        {
-                            "name": "細菌太多了！",
-                            "description": "身邊剛好沒有酒精。",
-                            "die_point": 10
-                        }
-                    ],
-                    "perfect": [
-                        {
-                            "name": "完美",
-                            "description": "這個釘子太完美了，完全沒有缺陷！",
-                            "die_point": 0
-                        }
-                    ]
-                }
-            ]
+            "die_point": 70
+        }
+    ],
+    "4": [
+        {
+            "name": "橘子",
+            "description": "橘子酸酸甜甜，口感爽口。",
+            "die_point": 0
+        }
+    ],
+    "5": [
+        {
+            "name": "書籍",
+            "description": "閱讀書籍能擴展知識。",
+            "die_point": 70
+        }
+    ],
+    "6": [
+        {
+            "name": "手機",
+            "description": "手機是現代人必備的通訊工具。",
+            "die_point": 70
+        }
+    ],
+    "7": [
+        {
+            "name": "狗",
+            "description": "狗是人類的忠實伴侶。",
+            "die_point": 60
+        }
+    ],
+    "8": [
+        {
+            "name": "電視",
+            "description": "電視是大家娛樂和資訊的來源之一。",
+            "die_point": 90
+        }
+    ],
+    "9": [
+        {
+            "name": "水",
+            "description": "水是生命之源，保持身體健康必需。",
+            "die_point": 0
+        }
+    ],
+    "10": [
+        {
+            "name": "筆記本",
+            "description": "筆記本可以用來寫下重要的筆記和資訊。",
+            "die_point": 60
+        }
+    ],
+    "11": [
+        {
+            "name": "手錶",
+            "description": "手錶可以幫助人們掌握時間。",
+            "die_point": 90
+        }
+    ],
+    "12": [
+        {
+            "name": "螺絲起子",
+            "description": "螺絲起子是拆卸和組裝物品時常用的工具。",
+            "die_point": 99
+        }
+    ],
+    "13": [
+        {
+            "name": "太陽眼鏡",
+            "description": "太陽眼鏡能保護眼睛免受陽光的傷害。",
+            "die_point": 80
+        }
+    ],
+    "14": [
+        {
+            "name": "汽車",
+            "description": "汽車是一種便捷的交通工具。",
+            "die_point": 100
+        }
+    ],
+    "15": [
+        {
+            "name": "音樂",
+            "description": "音樂能帶給人們愉悅和情緒的宣洩。",
+            "die_point": 0
+        }
+    ],
+    "16": [
+        {
+            "name": "鏡子",
+            "description": "鏡子可以反射光線，讓人們看到自己的影像。",
+            "die_point": 90
+        }
+    ],
+    "17": [
+        {
+            "name": "電腦",
+            "description": "電腦是現代科技的重要產物，被廣泛應用於各行各業。",
+            "die_point": 90
+        }
+    ],
+    "18": [
+        {
+            "name": "照相機",
+            "description": "照相機可以捕捉珍貴的時刻和美麗的風景。",
+            "die_point": 80
+        }
+    ],
+    "19": [
+        {
+            "name": "手提包",
+            "description": "手提包方便攜帶個人物品和日常用品。",
+            "die_point": 60
+        }
+    ],
+    "20": [
+        {
+            "name": "電燈",
+            "description": "電燈照亮黑暗的空間，提供光線。",
+            "die_point": 90
+        }
+    ],
+    "21": [
+        {
+            "name": "麥克風",
+            "description": "麥克風可以將聲音轉換為電信號，廣泛應用於錄音和演講等場合。",
+            "die_point": 80
+        }
+    ],
+    "22": [
+        {
+            "name": "咖啡",
+            "description": "咖啡是一種受歡迎的飲品，提供提神的效果。",
+            "die_point": 5
+        }
+    ],
+    "23": [
+        {
+            "name": "手套",
+            "description": "手套可以保護手部免受寒冷或受傷的影響。",
+            "die_point": 60
+        }
+    ],
+    "24": [
+        {
+            "name": "眼鏡",
+            "description": "眼鏡可以矯正視力問題，讓人們看清世界。",
+            "die_point": 70
+        }
+    ],
+    "25": [
+        {
+            "name": "電池",
+            "description": "電池是儲存和提供電力的裝置。",
+            "die_point": 99
+        }
+    ],
+    "26": [
+        {
+            "name": "毛巾",
+            "description": "毛巾用於擦拭身體或清潔物品。",
+            "die_point": 60
+        }
+    ],
+    "27": [
+        {
+            "name": "香水",
+            "description": "香水能給人們帶來芳香和自信。",
+            "die_point": 30
+        }
+    ],
+    "28": [
+        {
+            "name": "蒸鍋",
+            "description": "蒸鍋可以煮飯，方便快捷。",
+            "die_point": 90
+        }
+    ],
+    "29": [
+        {
+            "name": "雨傘",
+            "description": "雨傘可以遮擋雨水，保持身體乾燥。",
+            "die_point": 60
+        }
+    ],
+    "30": [
+        {
+            "name": "手帕",
+            "description": "手帕用於擦拭汗水或擦拭臉部。",
+            "die_point": 40
         }
     ]
 }
