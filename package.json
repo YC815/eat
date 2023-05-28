@@ -10,6 +10,10 @@
     "static": "next build && next export"
   },
   "dependencies": {
+    "@capacitor/android": "^5.0.4",
+    "@capacitor/cli": "^5.0.4",
+    "@capacitor/core": "^5.0.4",
+    "@capacitor/ios": "^5.0.4",
     "@next/font": "13.4.2",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2",
