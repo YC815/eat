@@ -16,8 +16,9 @@
 2. 將目錄指向本專案根目錄
 3. 運行 `npm install` 以自動將安裝專案所需要之模組
 4. 運行 `npm run dev` 並前往網站 [http://localhost:3000](http://localhost:3000)
-<br/>
-> 亦可前往網站 [https://eat-gamma.vercel.app/](https://eat-gamma.vercel.app/) 直接進入遊戲畫面
+
+
+ > 亦可前往網站 [https://eat-gamma.vercel.app/](https://eat-gamma.vercel.app/) 直接進入遊戲畫面
 
 ---
 
